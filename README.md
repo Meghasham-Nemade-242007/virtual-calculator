@@ -1,4 +1,4 @@
-**🚀 Project Title & Tagline**
+**🚀 HAND GESTURE BASED VIRTUAL CALCULATOR**
 ================================
 
 **Project Title:** Virtual Calculator 👋
@@ -44,6 +44,7 @@ To run the Virtual Calculator, follow these steps:
 3. The calculator will start and be ready to use.
 
 **📸 Screenshots**
+
 ![App Screenshot](screenshots/scr1.png)
 ![App Screenshot](screenshots/scr2.png)
 ![App Screenshot](screenshots/scr3.png)
